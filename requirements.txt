@@ -2,7 +2,6 @@ Flask
 Flask-Cors
 opencv-python
 pandas
-pillow
-tensorflow
-numpy==1.26
-
+Pillow
+tensorflow==2.15.0
+numpy==1.26.4
